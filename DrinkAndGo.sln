@@ -250,6 +250,320 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dist", "dist", "{3B9DD242-E
 		..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.min.map = ..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.min.map
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dist", "dist", "{D68BD093-F0D8-4570-99A5-E950DFB148D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{CEC441B9-80A0-45A1-9B11-2426321FF6AC}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.eot = ..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.eot
+		..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.svg = ..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.svg
+		..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.ttf = ..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.ttf
+		..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.woff = ..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.woff
+		..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.woff2 = ..\New folder\wwwroot\lib\bootstrap\fonts\glyphicons-halflings-regular.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "grunt", "grunt", "{871B9439-0DD2-4BE6-BA03-6656EB282AA1}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\grunt\.jshintrc = ..\New folder\wwwroot\lib\bootstrap\grunt\.jshintrc
+		..\New folder\wwwroot\lib\bootstrap\grunt\bs-commonjs-generator.js = ..\New folder\wwwroot\lib\bootstrap\grunt\bs-commonjs-generator.js
+		..\New folder\wwwroot\lib\bootstrap\grunt\bs-glyphicons-data-generator.js = ..\New folder\wwwroot\lib\bootstrap\grunt\bs-glyphicons-data-generator.js
+		..\New folder\wwwroot\lib\bootstrap\grunt\bs-lessdoc-parser.js = ..\New folder\wwwroot\lib\bootstrap\grunt\bs-lessdoc-parser.js
+		..\New folder\wwwroot\lib\bootstrap\grunt\bs-raw-files-generator.js = ..\New folder\wwwroot\lib\bootstrap\grunt\bs-raw-files-generator.js
+		..\New folder\wwwroot\lib\bootstrap\grunt\change-version.js = ..\New folder\wwwroot\lib\bootstrap\grunt\change-version.js
+		..\New folder\wwwroot\lib\bootstrap\grunt\configBridge.json = ..\New folder\wwwroot\lib\bootstrap\grunt\configBridge.json
+		..\New folder\wwwroot\lib\bootstrap\grunt\npm-shrinkwrap.json = ..\New folder\wwwroot\lib\bootstrap\grunt\npm-shrinkwrap.json
+		..\New folder\wwwroot\lib\bootstrap\grunt\sauce_browsers.yml = ..\New folder\wwwroot\lib\bootstrap\grunt\sauce_browsers.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{3B9ADAD0-6EC2-48AE-AFB9-88DC43E16C47}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\js\.jscsrc = ..\New folder\wwwroot\lib\bootstrap\js\.jscsrc
+		..\New folder\wwwroot\lib\bootstrap\js\.jshintrc = ..\New folder\wwwroot\lib\bootstrap\js\.jshintrc
+		..\New folder\wwwroot\lib\bootstrap\js\affix.js = ..\New folder\wwwroot\lib\bootstrap\js\affix.js
+		..\New folder\wwwroot\lib\bootstrap\js\alert.js = ..\New folder\wwwroot\lib\bootstrap\js\alert.js
+		..\New folder\wwwroot\lib\bootstrap\js\button.js = ..\New folder\wwwroot\lib\bootstrap\js\button.js
+		..\New folder\wwwroot\lib\bootstrap\js\carousel.js = ..\New folder\wwwroot\lib\bootstrap\js\carousel.js
+		..\New folder\wwwroot\lib\bootstrap\js\collapse.js = ..\New folder\wwwroot\lib\bootstrap\js\collapse.js
+		..\New folder\wwwroot\lib\bootstrap\js\dropdown.js = ..\New folder\wwwroot\lib\bootstrap\js\dropdown.js
+		..\New folder\wwwroot\lib\bootstrap\js\modal.js = ..\New folder\wwwroot\lib\bootstrap\js\modal.js
+		..\New folder\wwwroot\lib\bootstrap\js\popover.js = ..\New folder\wwwroot\lib\bootstrap\js\popover.js
+		..\New folder\wwwroot\lib\bootstrap\js\scrollspy.js = ..\New folder\wwwroot\lib\bootstrap\js\scrollspy.js
+		..\New folder\wwwroot\lib\bootstrap\js\tab.js = ..\New folder\wwwroot\lib\bootstrap\js\tab.js
+		..\New folder\wwwroot\lib\bootstrap\js\tooltip.js = ..\New folder\wwwroot\lib\bootstrap\js\tooltip.js
+		..\New folder\wwwroot\lib\bootstrap\js\transition.js = ..\New folder\wwwroot\lib\bootstrap\js\transition.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "less", "less", "{C22508F9-0974-4270-9A13-1237BCAFDDB1}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\less\.csscomb.json = ..\New folder\wwwroot\lib\bootstrap\less\.csscomb.json
+		..\New folder\wwwroot\lib\bootstrap\less\.csslintrc = ..\New folder\wwwroot\lib\bootstrap\less\.csslintrc
+		..\New folder\wwwroot\lib\bootstrap\less\alerts.less = ..\New folder\wwwroot\lib\bootstrap\less\alerts.less
+		..\New folder\wwwroot\lib\bootstrap\less\badges.less = ..\New folder\wwwroot\lib\bootstrap\less\badges.less
+		..\New folder\wwwroot\lib\bootstrap\less\bootstrap.less = ..\New folder\wwwroot\lib\bootstrap\less\bootstrap.less
+		..\New folder\wwwroot\lib\bootstrap\less\breadcrumbs.less = ..\New folder\wwwroot\lib\bootstrap\less\breadcrumbs.less
+		..\New folder\wwwroot\lib\bootstrap\less\button-groups.less = ..\New folder\wwwroot\lib\bootstrap\less\button-groups.less
+		..\New folder\wwwroot\lib\bootstrap\less\buttons.less = ..\New folder\wwwroot\lib\bootstrap\less\buttons.less
+		..\New folder\wwwroot\lib\bootstrap\less\carousel.less = ..\New folder\wwwroot\lib\bootstrap\less\carousel.less
+		..\New folder\wwwroot\lib\bootstrap\less\close.less = ..\New folder\wwwroot\lib\bootstrap\less\close.less
+		..\New folder\wwwroot\lib\bootstrap\less\code.less = ..\New folder\wwwroot\lib\bootstrap\less\code.less
+		..\New folder\wwwroot\lib\bootstrap\less\component-animations.less = ..\New folder\wwwroot\lib\bootstrap\less\component-animations.less
+		..\New folder\wwwroot\lib\bootstrap\less\dropdowns.less = ..\New folder\wwwroot\lib\bootstrap\less\dropdowns.less
+		..\New folder\wwwroot\lib\bootstrap\less\forms.less = ..\New folder\wwwroot\lib\bootstrap\less\forms.less
+		..\New folder\wwwroot\lib\bootstrap\less\glyphicons.less = ..\New folder\wwwroot\lib\bootstrap\less\glyphicons.less
+		..\New folder\wwwroot\lib\bootstrap\less\grid.less = ..\New folder\wwwroot\lib\bootstrap\less\grid.less
+		..\New folder\wwwroot\lib\bootstrap\less\input-groups.less = ..\New folder\wwwroot\lib\bootstrap\less\input-groups.less
+		..\New folder\wwwroot\lib\bootstrap\less\jumbotron.less = ..\New folder\wwwroot\lib\bootstrap\less\jumbotron.less
+		..\New folder\wwwroot\lib\bootstrap\less\labels.less = ..\New folder\wwwroot\lib\bootstrap\less\labels.less
+		..\New folder\wwwroot\lib\bootstrap\less\list-group.less = ..\New folder\wwwroot\lib\bootstrap\less\list-group.less
+		..\New folder\wwwroot\lib\bootstrap\less\media.less = ..\New folder\wwwroot\lib\bootstrap\less\media.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins.less
+		..\New folder\wwwroot\lib\bootstrap\less\modals.less = ..\New folder\wwwroot\lib\bootstrap\less\modals.less
+		..\New folder\wwwroot\lib\bootstrap\less\navbar.less = ..\New folder\wwwroot\lib\bootstrap\less\navbar.less
+		..\New folder\wwwroot\lib\bootstrap\less\navs.less = ..\New folder\wwwroot\lib\bootstrap\less\navs.less
+		..\New folder\wwwroot\lib\bootstrap\less\normalize.less = ..\New folder\wwwroot\lib\bootstrap\less\normalize.less
+		..\New folder\wwwroot\lib\bootstrap\less\pager.less = ..\New folder\wwwroot\lib\bootstrap\less\pager.less
+		..\New folder\wwwroot\lib\bootstrap\less\pagination.less = ..\New folder\wwwroot\lib\bootstrap\less\pagination.less
+		..\New folder\wwwroot\lib\bootstrap\less\panels.less = ..\New folder\wwwroot\lib\bootstrap\less\panels.less
+		..\New folder\wwwroot\lib\bootstrap\less\popovers.less = ..\New folder\wwwroot\lib\bootstrap\less\popovers.less
+		..\New folder\wwwroot\lib\bootstrap\less\print.less = ..\New folder\wwwroot\lib\bootstrap\less\print.less
+		..\New folder\wwwroot\lib\bootstrap\less\progress-bars.less = ..\New folder\wwwroot\lib\bootstrap\less\progress-bars.less
+		..\New folder\wwwroot\lib\bootstrap\less\responsive-embed.less = ..\New folder\wwwroot\lib\bootstrap\less\responsive-embed.less
+		..\New folder\wwwroot\lib\bootstrap\less\responsive-utilities.less = ..\New folder\wwwroot\lib\bootstrap\less\responsive-utilities.less
+		..\New folder\wwwroot\lib\bootstrap\less\scaffolding.less = ..\New folder\wwwroot\lib\bootstrap\less\scaffolding.less
+		..\New folder\wwwroot\lib\bootstrap\less\tables.less = ..\New folder\wwwroot\lib\bootstrap\less\tables.less
+		..\New folder\wwwroot\lib\bootstrap\less\theme.less = ..\New folder\wwwroot\lib\bootstrap\less\theme.less
+		..\New folder\wwwroot\lib\bootstrap\less\thumbnails.less = ..\New folder\wwwroot\lib\bootstrap\less\thumbnails.less
+		..\New folder\wwwroot\lib\bootstrap\less\tooltip.less = ..\New folder\wwwroot\lib\bootstrap\less\tooltip.less
+		..\New folder\wwwroot\lib\bootstrap\less\type.less = ..\New folder\wwwroot\lib\bootstrap\less\type.less
+		..\New folder\wwwroot\lib\bootstrap\less\utilities.less = ..\New folder\wwwroot\lib\bootstrap\less\utilities.less
+		..\New folder\wwwroot\lib\bootstrap\less\variables.less = ..\New folder\wwwroot\lib\bootstrap\less\variables.less
+		..\New folder\wwwroot\lib\bootstrap\less\wells.less = ..\New folder\wwwroot\lib\bootstrap\less\wells.less
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "nuget", "nuget", "{94E1679E-587A-4BC1-BF76-DE0817AA3F21}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\nuget\bootstrap.less.nuspec = ..\New folder\wwwroot\lib\bootstrap\nuget\bootstrap.less.nuspec
+		..\New folder\wwwroot\lib\bootstrap\nuget\bootstrap.nuspec = ..\New folder\wwwroot\lib\bootstrap\nuget\bootstrap.nuspec
+		..\New folder\wwwroot\lib\bootstrap\nuget\MyGet.ps1 = ..\New folder\wwwroot\lib\bootstrap\nuget\MyGet.ps1
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mixins", "mixins", "{04937946-E56C-4D8B-8598-435082648260}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\alerts.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\alerts.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\background-variant.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\background-variant.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\border-radius.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\border-radius.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\buttons.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\buttons.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\center-block.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\center-block.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\clearfix.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\clearfix.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\forms.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\forms.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\gradients.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\gradients.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\grid-framework.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\grid-framework.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\grid.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\grid.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\hide-text.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\hide-text.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\image.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\image.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\labels.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\labels.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\list-group.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\list-group.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\nav-divider.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\nav-divider.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\nav-vertical-align.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\nav-vertical-align.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\opacity.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\opacity.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\pagination.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\pagination.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\panels.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\panels.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\progress-bar.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\progress-bar.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\reset-filter.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\reset-filter.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\reset-text.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\reset-text.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\resize.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\resize.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\responsive-visibility.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\responsive-visibility.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\size.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\size.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\tab-focus.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\tab-focus.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\table-row.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\table-row.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\text-emphasis.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\text-emphasis.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\text-overflow.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\text-overflow.less
+		..\New folder\wwwroot\lib\bootstrap\less\mixins\vendor-prefixes.less = ..\New folder\wwwroot\lib\bootstrap\less\mixins\vendor-prefixes.less
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{82A61694-3258-4C5B-9BB3-61956D57CA14}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.css.map
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap-theme.min.css.map
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.css = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+		..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map = ..\New folder\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "fonts", "fonts", "{99B9A77B-F978-41A7-B2F0-8632ED424110}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot = ..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.eot
+		..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg = ..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.svg
+		..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf = ..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf
+		..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff = ..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff
+		..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2 = ..\New folder\wwwroot\lib\bootstrap\dist\fonts\glyphicons-halflings-regular.woff2
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{87649FBA-DAD6-4C07-BC71-72457B74E01F}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\dist\js\bootstrap.js = ..\New folder\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+		..\New folder\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js = ..\New folder\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+		..\New folder\wwwroot\lib\bootstrap\dist\js\npm.js = ..\New folder\wwwroot\lib\bootstrap\dist\js\npm.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ajax", "ajax", "{56268A24-4AAC-4C06-8FB6-E8B6B77B4454}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\ajax\jsonp.js = ..\New folder\wwwroot\lib\jquery\src\ajax\jsonp.js
+		..\New folder\wwwroot\lib\jquery\src\ajax\load.js = ..\New folder\wwwroot\lib\jquery\src\ajax\load.js
+		..\New folder\wwwroot\lib\jquery\src\ajax\parseXML.js = ..\New folder\wwwroot\lib\jquery\src\ajax\parseXML.js
+		..\New folder\wwwroot\lib\jquery\src\ajax\script.js = ..\New folder\wwwroot\lib\jquery\src\ajax\script.js
+		..\New folder\wwwroot\lib\jquery\src\ajax\xhr.js = ..\New folder\wwwroot\lib\jquery\src\ajax\xhr.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "attributes", "attributes", "{DEC23689-3EAE-4DA3-A045-5A9BC59151C7}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\attributes\attr.js = ..\New folder\wwwroot\lib\jquery\src\attributes\attr.js
+		..\New folder\wwwroot\lib\jquery\src\attributes\classes.js = ..\New folder\wwwroot\lib\jquery\src\attributes\classes.js
+		..\New folder\wwwroot\lib\jquery\src\attributes\prop.js = ..\New folder\wwwroot\lib\jquery\src\attributes\prop.js
+		..\New folder\wwwroot\lib\jquery\src\attributes\support.js = ..\New folder\wwwroot\lib\jquery\src\attributes\support.js
+		..\New folder\wwwroot\lib\jquery\src\attributes\val.js = ..\New folder\wwwroot\lib\jquery\src\attributes\val.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{3D9D53AB-335B-4220-9BCA-728D75B4EC54}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\core\access.js = ..\New folder\wwwroot\lib\jquery\src\core\access.js
+		..\New folder\wwwroot\lib\jquery\src\core\DOMEval.js = ..\New folder\wwwroot\lib\jquery\src\core\DOMEval.js
+		..\New folder\wwwroot\lib\jquery\src\core\init.js = ..\New folder\wwwroot\lib\jquery\src\core\init.js
+		..\New folder\wwwroot\lib\jquery\src\core\parseHTML.js = ..\New folder\wwwroot\lib\jquery\src\core\parseHTML.js
+		..\New folder\wwwroot\lib\jquery\src\core\ready-no-deferred.js = ..\New folder\wwwroot\lib\jquery\src\core\ready-no-deferred.js
+		..\New folder\wwwroot\lib\jquery\src\core\ready.js = ..\New folder\wwwroot\lib\jquery\src\core\ready.js
+		..\New folder\wwwroot\lib\jquery\src\core\readyException.js = ..\New folder\wwwroot\lib\jquery\src\core\readyException.js
+		..\New folder\wwwroot\lib\jquery\src\core\stripAndCollapse.js = ..\New folder\wwwroot\lib\jquery\src\core\stripAndCollapse.js
+		..\New folder\wwwroot\lib\jquery\src\core\support.js = ..\New folder\wwwroot\lib\jquery\src\core\support.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{E368DCF9-D5D2-4527-B0B0-287E42EE3E2F}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\css\addGetHookIf.js = ..\New folder\wwwroot\lib\jquery\src\css\addGetHookIf.js
+		..\New folder\wwwroot\lib\jquery\src\css\adjustCSS.js = ..\New folder\wwwroot\lib\jquery\src\css\adjustCSS.js
+		..\New folder\wwwroot\lib\jquery\src\css\curCSS.js = ..\New folder\wwwroot\lib\jquery\src\css\curCSS.js
+		..\New folder\wwwroot\lib\jquery\src\css\hiddenVisibleSelectors.js = ..\New folder\wwwroot\lib\jquery\src\css\hiddenVisibleSelectors.js
+		..\New folder\wwwroot\lib\jquery\src\css\showHide.js = ..\New folder\wwwroot\lib\jquery\src\css\showHide.js
+		..\New folder\wwwroot\lib\jquery\src\css\support.js = ..\New folder\wwwroot\lib\jquery\src\css\support.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{A4184FC3-14FE-4A1D-98B0-0CFC59E819E4}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\data\Data.js = ..\New folder\wwwroot\lib\jquery\src\data\Data.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "deferred", "deferred", "{8AFB35BA-0069-4632-9A84-1F42AAA1871E}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\deferred\exceptionHook.js = ..\New folder\wwwroot\lib\jquery\src\deferred\exceptionHook.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "effects", "effects", "{962F5B9B-0759-4A37-9F71-7F1E72572A51}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\effects\animatedSelector.js = ..\New folder\wwwroot\lib\jquery\src\effects\animatedSelector.js
+		..\New folder\wwwroot\lib\jquery\src\effects\Tween.js = ..\New folder\wwwroot\lib\jquery\src\effects\Tween.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "event", "event", "{7E7062F2-030D-4803-AC11-F6E379A4A7DD}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\event\ajax.js = ..\New folder\wwwroot\lib\jquery\src\event\ajax.js
+		..\New folder\wwwroot\lib\jquery\src\event\alias.js = ..\New folder\wwwroot\lib\jquery\src\event\alias.js
+		..\New folder\wwwroot\lib\jquery\src\event\focusin.js = ..\New folder\wwwroot\lib\jquery\src\event\focusin.js
+		..\New folder\wwwroot\lib\jquery\src\event\support.js = ..\New folder\wwwroot\lib\jquery\src\event\support.js
+		..\New folder\wwwroot\lib\jquery\src\event\trigger.js = ..\New folder\wwwroot\lib\jquery\src\event\trigger.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exports", "exports", "{9379DFF2-C591-44A8-9078-09096461DE31}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\exports\amd.js = ..\New folder\wwwroot\lib\jquery\src\exports\amd.js
+		..\New folder\wwwroot\lib\jquery\src\exports\global.js = ..\New folder\wwwroot\lib\jquery\src\exports\global.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "manipulation", "manipulation", "{932F8ED0-F22B-4B12-A0AB-73BAD8A4B54E}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\manipulation\_evalUrl.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\_evalUrl.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation\buildFragment.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\buildFragment.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation\getAll.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\getAll.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation\setGlobalEval.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\setGlobalEval.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation\support.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\support.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation\wrapMap.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\wrapMap.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "queue", "queue", "{8A0F2E40-5020-4145-BCFB-796131245EE9}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\queue\delay.js = ..\New folder\wwwroot\lib\jquery\src\queue\delay.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "var", "var", "{C6BB5479-E686-484D-BF42-8B6BFD05D749}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\var\arr.js = ..\New folder\wwwroot\lib\jquery\src\var\arr.js
+		..\New folder\wwwroot\lib\jquery\src\var\class2type.js = ..\New folder\wwwroot\lib\jquery\src\var\class2type.js
+		..\New folder\wwwroot\lib\jquery\src\var\concat.js = ..\New folder\wwwroot\lib\jquery\src\var\concat.js
+		..\New folder\wwwroot\lib\jquery\src\var\document.js = ..\New folder\wwwroot\lib\jquery\src\var\document.js
+		..\New folder\wwwroot\lib\jquery\src\var\documentElement.js = ..\New folder\wwwroot\lib\jquery\src\var\documentElement.js
+		..\New folder\wwwroot\lib\jquery\src\var\fnToString.js = ..\New folder\wwwroot\lib\jquery\src\var\fnToString.js
+		..\New folder\wwwroot\lib\jquery\src\var\getProto.js = ..\New folder\wwwroot\lib\jquery\src\var\getProto.js
+		..\New folder\wwwroot\lib\jquery\src\var\hasOwn.js = ..\New folder\wwwroot\lib\jquery\src\var\hasOwn.js
+		..\New folder\wwwroot\lib\jquery\src\var\indexOf.js = ..\New folder\wwwroot\lib\jquery\src\var\indexOf.js
+		..\New folder\wwwroot\lib\jquery\src\var\ObjectFunctionString.js = ..\New folder\wwwroot\lib\jquery\src\var\ObjectFunctionString.js
+		..\New folder\wwwroot\lib\jquery\src\var\pnum.js = ..\New folder\wwwroot\lib\jquery\src\var\pnum.js
+		..\New folder\wwwroot\lib\jquery\src\var\push.js = ..\New folder\wwwroot\lib\jquery\src\var\push.js
+		..\New folder\wwwroot\lib\jquery\src\var\rcssNum.js = ..\New folder\wwwroot\lib\jquery\src\var\rcssNum.js
+		..\New folder\wwwroot\lib\jquery\src\var\rnothtmlwhite.js = ..\New folder\wwwroot\lib\jquery\src\var\rnothtmlwhite.js
+		..\New folder\wwwroot\lib\jquery\src\var\slice.js = ..\New folder\wwwroot\lib\jquery\src\var\slice.js
+		..\New folder\wwwroot\lib\jquery\src\var\support.js = ..\New folder\wwwroot\lib\jquery\src\var\support.js
+		..\New folder\wwwroot\lib\jquery\src\var\toString.js = ..\New folder\wwwroot\lib\jquery\src\var\toString.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "traversing", "traversing", "{22665981-809F-4E03-B371-D666455B206B}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\traversing\findFilter.js = ..\New folder\wwwroot\lib\jquery\src\traversing\findFilter.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "var", "var", "{0E8F9CCE-450A-4E62-812D-E2427C589C8C}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\traversing\var\dir.js = ..\New folder\wwwroot\lib\jquery\src\traversing\var\dir.js
+		..\New folder\wwwroot\lib\jquery\src\traversing\var\rneedsContext.js = ..\New folder\wwwroot\lib\jquery\src\traversing\var\rneedsContext.js
+		..\New folder\wwwroot\lib\jquery\src\traversing\var\siblings.js = ..\New folder\wwwroot\lib\jquery\src\traversing\var\siblings.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "var", "var", "{CD4B0577-EAFA-4417-94ED-FAC1B86C26C7}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\ajax\var\location.js = ..\New folder\wwwroot\lib\jquery\src\ajax\var\location.js
+		..\New folder\wwwroot\lib\jquery\src\ajax\var\nonce.js = ..\New folder\wwwroot\lib\jquery\src\ajax\var\nonce.js
+		..\New folder\wwwroot\lib\jquery\src\ajax\var\rquery.js = ..\New folder\wwwroot\lib\jquery\src\ajax\var\rquery.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "var", "var", "{6D329D92-1AAD-4159-A0F3-12383BE361AF}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\core\var\rsingleTag.js = ..\New folder\wwwroot\lib\jquery\src\core\var\rsingleTag.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "var", "var", "{DF7469C0-9BE6-4E2C-A1D5-F3687BB6B550}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\css\var\cssExpand.js = ..\New folder\wwwroot\lib\jquery\src\css\var\cssExpand.js
+		..\New folder\wwwroot\lib\jquery\src\css\var\getStyles.js = ..\New folder\wwwroot\lib\jquery\src\css\var\getStyles.js
+		..\New folder\wwwroot\lib\jquery\src\css\var\isHiddenWithinTree.js = ..\New folder\wwwroot\lib\jquery\src\css\var\isHiddenWithinTree.js
+		..\New folder\wwwroot\lib\jquery\src\css\var\rmargin.js = ..\New folder\wwwroot\lib\jquery\src\css\var\rmargin.js
+		..\New folder\wwwroot\lib\jquery\src\css\var\rnumnonpx.js = ..\New folder\wwwroot\lib\jquery\src\css\var\rnumnonpx.js
+		..\New folder\wwwroot\lib\jquery\src\css\var\swap.js = ..\New folder\wwwroot\lib\jquery\src\css\var\swap.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "var", "var", "{92DF780F-56C6-40F2-BE3C-B2D1395970E4}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\data\var\acceptData.js = ..\New folder\wwwroot\lib\jquery\src\data\var\acceptData.js
+		..\New folder\wwwroot\lib\jquery\src\data\var\dataPriv.js = ..\New folder\wwwroot\lib\jquery\src\data\var\dataPriv.js
+		..\New folder\wwwroot\lib\jquery\src\data\var\dataUser.js = ..\New folder\wwwroot\lib\jquery\src\data\var\dataUser.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "var", "var", "{F1D60CCB-B451-4B06-B0FC-746F2759999B}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\manipulation\var\rcheckableType.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\var\rcheckableType.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation\var\rscriptType.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\var\rscriptType.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation\var\rtagName.js = ..\New folder\wwwroot\lib\jquery\src\manipulation\var\rtagName.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,6 +602,35 @@ Global
 		{5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C} = {17BA5147-105A-46F1-A5EE-18132CCE0A74}
 		{C138CCE2-F519-4740-B570-6E8C03E378D7} = {B4444EAD-3AF0-44FA-A54E-3A4CCA336F83}
 		{3B9DD242-EA28-4FB1-8DDE-C374CBCCBC4D} = {C138CCE2-F519-4740-B570-6E8C03E378D7}
+		{D68BD093-F0D8-4570-99A5-E950DFB148D8} = {1896EFEC-BF61-4118-906B-574C4EFABFDE}
+		{CEC441B9-80A0-45A1-9B11-2426321FF6AC} = {1896EFEC-BF61-4118-906B-574C4EFABFDE}
+		{871B9439-0DD2-4BE6-BA03-6656EB282AA1} = {1896EFEC-BF61-4118-906B-574C4EFABFDE}
+		{3B9ADAD0-6EC2-48AE-AFB9-88DC43E16C47} = {1896EFEC-BF61-4118-906B-574C4EFABFDE}
+		{C22508F9-0974-4270-9A13-1237BCAFDDB1} = {1896EFEC-BF61-4118-906B-574C4EFABFDE}
+		{94E1679E-587A-4BC1-BF76-DE0817AA3F21} = {1896EFEC-BF61-4118-906B-574C4EFABFDE}
+		{04937946-E56C-4D8B-8598-435082648260} = {C22508F9-0974-4270-9A13-1237BCAFDDB1}
+		{82A61694-3258-4C5B-9BB3-61956D57CA14} = {D68BD093-F0D8-4570-99A5-E950DFB148D8}
+		{99B9A77B-F978-41A7-B2F0-8632ED424110} = {D68BD093-F0D8-4570-99A5-E950DFB148D8}
+		{87649FBA-DAD6-4C07-BC71-72457B74E01F} = {D68BD093-F0D8-4570-99A5-E950DFB148D8}
+		{56268A24-4AAC-4C06-8FB6-E8B6B77B4454} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{DEC23689-3EAE-4DA3-A045-5A9BC59151C7} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{3D9D53AB-335B-4220-9BCA-728D75B4EC54} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{E368DCF9-D5D2-4527-B0B0-287E42EE3E2F} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{A4184FC3-14FE-4A1D-98B0-0CFC59E819E4} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{8AFB35BA-0069-4632-9A84-1F42AAA1871E} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{962F5B9B-0759-4A37-9F71-7F1E72572A51} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{7E7062F2-030D-4803-AC11-F6E379A4A7DD} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{9379DFF2-C591-44A8-9078-09096461DE31} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{932F8ED0-F22B-4B12-A0AB-73BAD8A4B54E} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{8A0F2E40-5020-4145-BCFB-796131245EE9} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{C6BB5479-E686-484D-BF42-8B6BFD05D749} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{22665981-809F-4E03-B371-D666455B206B} = {5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}
+		{0E8F9CCE-450A-4E62-812D-E2427C589C8C} = {22665981-809F-4E03-B371-D666455B206B}
+		{CD4B0577-EAFA-4417-94ED-FAC1B86C26C7} = {56268A24-4AAC-4C06-8FB6-E8B6B77B4454}
+		{6D329D92-1AAD-4159-A0F3-12383BE361AF} = {3D9D53AB-335B-4220-9BCA-728D75B4EC54}
+		{DF7469C0-9BE6-4E2C-A1D5-F3687BB6B550} = {E368DCF9-D5D2-4527-B0B0-287E42EE3E2F}
+		{92DF780F-56C6-40F2-BE3C-B2D1395970E4} = {A4184FC3-14FE-4A1D-98B0-0CFC59E819E4}
+		{F1D60CCB-B451-4B06-B0FC-746F2759999B} = {932F8ED0-F22B-4B12-A0AB-73BAD8A4B54E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {84872475-6877-4E10-80E4-AEF6E0F43FEF}
