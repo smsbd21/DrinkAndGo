@@ -1,0 +1,295 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}"
+	ProjectSection(SolutionItems) = preProject
+		src\DrinkAndGo\appsettings.json = src\DrinkAndGo\appsettings.json
+		src\DrinkAndGo\bower.json = src\DrinkAndGo\bower.json
+		src\DrinkAndGo\Program.cs = src\DrinkAndGo\Program.cs
+		src\DrinkAndGo\project.json = src\DrinkAndGo\project.json
+		src\DrinkAndGo\Project_Readme.html = src\DrinkAndGo\Project_Readme.html
+		src\DrinkAndGo\Startup.cs = src\DrinkAndGo\Startup.cs
+		src\DrinkAndGo\web.config = src\DrinkAndGo\web.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0DA94FDB-22B1-4D80-B10F-6EE748400F45}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Components", "Components", "{EC6C8537-27EA-4E14-9205-3FD158B9D8FD}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Components\CategoryMenu.cs = ..\New folder\Components\CategoryMenu.cs
+		..\New folder\Components\ShoppingCartSummary.cs = ..\New folder\Components\ShoppingCartSummary.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{9CBBED2A-52DB-4559-94F6-08936944C65E}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Controllers\AboutController.cs = ..\New folder\Controllers\AboutController.cs
+		..\New folder\Controllers\AccountController.cs = ..\New folder\Controllers\AccountController.cs
+		..\New folder\Controllers\DrinkController.cs = ..\New folder\Controllers\DrinkController.cs
+		..\New folder\Controllers\DrinkDataController.cs = ..\New folder\Controllers\DrinkDataController.cs
+		..\New folder\Controllers\HomeController.cs = ..\New folder\Controllers\HomeController.cs
+		..\New folder\Controllers\OrderController.cs = ..\New folder\Controllers\OrderController.cs
+		..\New folder\Controllers\ShoppingCartController.cs = ..\New folder\Controllers\ShoppingCartController.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{D6F3611F-036F-42CE-9027-C37FAAACA68C}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Data\AppDbContext.cs = ..\New folder\Data\AppDbContext.cs
+		..\New folder\Data\DbInitializer.cs = ..\New folder\Data\DbInitializer.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Properties", "Properties", "{4C2A92EC-E936-4B8C-8116-77373AF148C8}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Properties\launchSettings.json = ..\New folder\Properties\launchSettings.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TagHelpers", "TagHelpers", "{C38D5883-2981-4FE3-A6CB-17D35435C7FF}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\TagHelpers\EmailTagHelper.cs = ..\New folder\TagHelpers\EmailTagHelper.cs
+		..\New folder\TagHelpers\MyBoldTagHelper.cs = ..\New folder\TagHelpers\MyBoldTagHelper.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ViewModels", "ViewModels", "{F5E5CE95-846E-47BF-B3B3-F6A9BCD3B749}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\ViewModels\DrinksListViewModel.cs = ..\New folder\ViewModels\DrinksListViewModel.cs
+		..\New folder\ViewModels\DrinkViewModel.cs = ..\New folder\ViewModels\DrinkViewModel.cs
+		..\New folder\ViewModels\HomeViewModel.cs = ..\New folder\ViewModels\HomeViewModel.cs
+		..\New folder\ViewModels\LoginViewModel.cs = ..\New folder\ViewModels\LoginViewModel.cs
+		..\New folder\ViewModels\ShoppingCartViewModel.cs = ..\New folder\ViewModels\ShoppingCartViewModel.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Views", "Views", "{C221793B-5623-464C-917D-1D5F42B6A0EA}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\_ViewImports.cshtml = ..\New folder\Views\_ViewImports.cshtml
+		..\New folder\Views\_ViewStart.cshtml = ..\New folder\Views\_ViewStart.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wwwroot", "wwwroot", "{2155FE5F-EDCB-4F31-B655-7C28542E740B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{6FE8B1EC-DA5D-42E0-9DA4-59E7298496E9}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\Content\Site.css = ..\New folder\wwwroot\Content\Site.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{01739F0D-3577-4167-A85A-630CD27AAAD9}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\Images\carousel1.jpg = ..\New folder\wwwroot\Images\carousel1.jpg
+		..\New folder\wwwroot\Images\carousel2.jpg = ..\New folder\wwwroot\Images\carousel2.jpg
+		..\New folder\wwwroot\Images\carousel3.jpg = ..\New folder\wwwroot\Images\carousel3.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{949B0BF7-20E6-4899-A20C-419FDC49083C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "About", "About", "{7652F62A-825F-4797-AFC8-5E95EC048474}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\About\Index.cshtml = ..\New folder\Views\About\Index.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Account", "Account", "{12115F43-BBC0-4ABE-813A-5E11B862F22A}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Account\LoggedIn.cshtml = ..\New folder\Views\Account\LoggedIn.cshtml
+		..\New folder\Views\Account\Login.cshtml = ..\New folder\Views\Account\Login.cshtml
+		..\New folder\Views\Account\Logout.cshtml = ..\New folder\Views\Account\Logout.cshtml
+		..\New folder\Views\Account\Register.cshtml = ..\New folder\Views\Account\Register.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Drink", "Drink", "{68A1BA49-CAF3-40FB-96CE-F687B685F091}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Drink\Details.cshtml = ..\New folder\Views\Drink\Details.cshtml
+		..\New folder\Views\Drink\List.cshtml = ..\New folder\Views\Drink\List.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Error", "Error", "{AEDC9760-1CC6-43FA-9C58-03FC702300E5}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Error\Error.cshtml = ..\New folder\Views\Error\Error.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Home", "Home", "{8E5180EF-B2BB-4505-8F47-3D85D69CA2A9}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Home\Index.cshtml = ..\New folder\Views\Home\Index.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Order", "Order", "{3C71D10F-4F74-4B79-9025-FE77BD5FC978}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Order\Checkout.cshtml = ..\New folder\Views\Order\Checkout.cshtml
+		..\New folder\Views\Order\CheckoutComplete.cshtml = ..\New folder\Views\Order\CheckoutComplete.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{D6F83D41-1D95-4DBE-B1E4-EB223259A6DD}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Shared\_Layout.cshtml = ..\New folder\Views\Shared\_Layout.cshtml
+		..\New folder\Views\Shared\Carousel.cshtml = ..\New folder\Views\Shared\Carousel.cshtml
+		..\New folder\Views\Shared\DrinkOverviewSummary.cshtml = ..\New folder\Views\Shared\DrinkOverviewSummary.cshtml
+		..\New folder\Views\Shared\DrinksSummary.cshtml = ..\New folder\Views\Shared\DrinksSummary.cshtml
+		..\New folder\Views\Shared\LoginPartial.cshtml = ..\New folder\Views\Shared\LoginPartial.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShoppingCart", "ShoppingCart", "{15709B78-B202-4B2C-844D-3029009E6B03}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\ShoppingCart\Index.cshtml = ..\New folder\Views\ShoppingCart\Index.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Components", "Components", "{2964FE55-0F3B-4BA9-8461-53E5C9543772}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CategoryMenu", "CategoryMenu", "{4590AA94-5E06-48E5-B2C3-6BBD8F274AA0}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Shared\Components\CategoryMenu\Default.cshtml = ..\New folder\Views\Shared\Components\CategoryMenu\Default.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShoppingCartSummary", "ShoppingCartSummary", "{9CA443B9-29B9-41E3-8C5B-761076F20F63}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Views\Shared\Components\ShoppingCartSummary\Default.cshtml = ..\New folder\Views\Shared\Components\ShoppingCartSummary\Default.cshtml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interfaces", "Interfaces", "{89CF21B7-4998-4771-8EFC-D0697FE949BC}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Data\Interfaces\ICategoryRepository.cs = ..\New folder\Data\Interfaces\ICategoryRepository.cs
+		..\New folder\Data\Interfaces\IDrinkRepository.cs = ..\New folder\Data\Interfaces\IDrinkRepository.cs
+		..\New folder\Data\Interfaces\IOrderRepository.cs = ..\New folder\Data\Interfaces\IOrderRepository.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mocks", "Mocks", "{4F5267B2-3500-4519-81F2-2DA7DE6223BC}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Data\Mocks\MockCategoryRepository.cs = ..\New folder\Data\Mocks\MockCategoryRepository.cs
+		..\New folder\Data\Mocks\MockDrinkRepository.cs = ..\New folder\Data\Mocks\MockDrinkRepository.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Models", "Models", "{190678DF-EFF1-4881-9C89-4B15F854C682}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Data\Models\Category.cs = ..\New folder\Data\Models\Category.cs
+		..\New folder\Data\Models\Drink.cs = ..\New folder\Data\Models\Drink.cs
+		..\New folder\Data\Models\Order.cs = ..\New folder\Data\Models\Order.cs
+		..\New folder\Data\Models\OrderDetail.cs = ..\New folder\Data\Models\OrderDetail.cs
+		..\New folder\Data\Models\ShoppingCart.cs = ..\New folder\Data\Models\ShoppingCart.cs
+		..\New folder\Data\Models\ShoppingCartItem.cs = ..\New folder\Data\Models\ShoppingCartItem.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{EE4FBA71-78D2-48E1-BA64-6D5CB4654C42}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\Data\Repositories\CategoryRepository.cs = ..\New folder\Data\Repositories\CategoryRepository.cs
+		..\New folder\Data\Repositories\DrinkRepository.cs = ..\New folder\Data\Repositories\DrinkRepository.cs
+		..\New folder\Data\Repositories\OrderRepository.cs = ..\New folder\Data\Repositories\OrderRepository.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bootstrap", "bootstrap", "{1896EFEC-BF61-4118-906B-574C4EFABFDE}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\bootstrap\.bower.json = ..\New folder\wwwroot\lib\bootstrap\.bower.json
+		..\New folder\wwwroot\lib\bootstrap\bower.json = ..\New folder\wwwroot\lib\bootstrap\bower.json
+		..\New folder\wwwroot\lib\bootstrap\CHANGELOG.md = ..\New folder\wwwroot\lib\bootstrap\CHANGELOG.md
+		..\New folder\wwwroot\lib\bootstrap\Gemfile = ..\New folder\wwwroot\lib\bootstrap\Gemfile
+		..\New folder\wwwroot\lib\bootstrap\Gemfile.lock = ..\New folder\wwwroot\lib\bootstrap\Gemfile.lock
+		..\New folder\wwwroot\lib\bootstrap\Gruntfile.js = ..\New folder\wwwroot\lib\bootstrap\Gruntfile.js
+		..\New folder\wwwroot\lib\bootstrap\ISSUE_TEMPLATE.md = ..\New folder\wwwroot\lib\bootstrap\ISSUE_TEMPLATE.md
+		..\New folder\wwwroot\lib\bootstrap\LICENSE = ..\New folder\wwwroot\lib\bootstrap\LICENSE
+		..\New folder\wwwroot\lib\bootstrap\package.js = ..\New folder\wwwroot\lib\bootstrap\package.js
+		..\New folder\wwwroot\lib\bootstrap\package.json = ..\New folder\wwwroot\lib\bootstrap\package.json
+		..\New folder\wwwroot\lib\bootstrap\README.md = ..\New folder\wwwroot\lib\bootstrap\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "jquery", "jquery", "{17BA5147-105A-46F1-A5EE-18132CCE0A74}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\.bower.json = ..\New folder\wwwroot\lib\jquery\.bower.json
+		..\New folder\wwwroot\lib\jquery\AUTHORS.txt = ..\New folder\wwwroot\lib\jquery\AUTHORS.txt
+		..\New folder\wwwroot\lib\jquery\bower.json = ..\New folder\wwwroot\lib\jquery\bower.json
+		..\New folder\wwwroot\lib\jquery\LICENSE.txt = ..\New folder\wwwroot\lib\jquery\LICENSE.txt
+		..\New folder\wwwroot\lib\jquery\README.md = ..\New folder\wwwroot\lib\jquery\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dist", "dist", "{B7AE37AA-67FA-439E-A401-59B12B85A8A0}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\dist\core.js = ..\New folder\wwwroot\lib\jquery\dist\core.js
+		..\New folder\wwwroot\lib\jquery\dist\jquery.js = ..\New folder\wwwroot\lib\jquery\dist\jquery.js
+		..\New folder\wwwroot\lib\jquery\dist\jquery.min.js = ..\New folder\wwwroot\lib\jquery\dist\jquery.min.js
+		..\New folder\wwwroot\lib\jquery\dist\jquery.min.map = ..\New folder\wwwroot\lib\jquery\dist\jquery.min.map
+		..\New folder\wwwroot\lib\jquery\dist\jquery.slim.js = ..\New folder\wwwroot\lib\jquery\dist\jquery.slim.js
+		..\New folder\wwwroot\lib\jquery\dist\jquery.slim.min.js = ..\New folder\wwwroot\lib\jquery\dist\jquery.slim.min.js
+		..\New folder\wwwroot\lib\jquery\dist\jquery.slim.min.map = ..\New folder\wwwroot\lib\jquery\dist\jquery.slim.min.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "external", "external", "{B4444EAD-3AF0-44FA-A54E-3A4CCA336F83}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\src\.eslintrc.json = ..\New folder\wwwroot\lib\jquery\src\.eslintrc.json
+		..\New folder\wwwroot\lib\jquery\src\ajax.js = ..\New folder\wwwroot\lib\jquery\src\ajax.js
+		..\New folder\wwwroot\lib\jquery\src\attributes.js = ..\New folder\wwwroot\lib\jquery\src\attributes.js
+		..\New folder\wwwroot\lib\jquery\src\callbacks.js = ..\New folder\wwwroot\lib\jquery\src\callbacks.js
+		..\New folder\wwwroot\lib\jquery\src\core.js = ..\New folder\wwwroot\lib\jquery\src\core.js
+		..\New folder\wwwroot\lib\jquery\src\css.js = ..\New folder\wwwroot\lib\jquery\src\css.js
+		..\New folder\wwwroot\lib\jquery\src\data.js = ..\New folder\wwwroot\lib\jquery\src\data.js
+		..\New folder\wwwroot\lib\jquery\src\deferred.js = ..\New folder\wwwroot\lib\jquery\src\deferred.js
+		..\New folder\wwwroot\lib\jquery\src\deprecated.js = ..\New folder\wwwroot\lib\jquery\src\deprecated.js
+		..\New folder\wwwroot\lib\jquery\src\dimensions.js = ..\New folder\wwwroot\lib\jquery\src\dimensions.js
+		..\New folder\wwwroot\lib\jquery\src\effects.js = ..\New folder\wwwroot\lib\jquery\src\effects.js
+		..\New folder\wwwroot\lib\jquery\src\event.js = ..\New folder\wwwroot\lib\jquery\src\event.js
+		..\New folder\wwwroot\lib\jquery\src\jquery.js = ..\New folder\wwwroot\lib\jquery\src\jquery.js
+		..\New folder\wwwroot\lib\jquery\src\manipulation.js = ..\New folder\wwwroot\lib\jquery\src\manipulation.js
+		..\New folder\wwwroot\lib\jquery\src\offset.js = ..\New folder\wwwroot\lib\jquery\src\offset.js
+		..\New folder\wwwroot\lib\jquery\src\queue.js = ..\New folder\wwwroot\lib\jquery\src\queue.js
+		..\New folder\wwwroot\lib\jquery\src\selector-native.js = ..\New folder\wwwroot\lib\jquery\src\selector-native.js
+		..\New folder\wwwroot\lib\jquery\src\selector-sizzle.js = ..\New folder\wwwroot\lib\jquery\src\selector-sizzle.js
+		..\New folder\wwwroot\lib\jquery\src\selector.js = ..\New folder\wwwroot\lib\jquery\src\selector.js
+		..\New folder\wwwroot\lib\jquery\src\serialize.js = ..\New folder\wwwroot\lib\jquery\src\serialize.js
+		..\New folder\wwwroot\lib\jquery\src\traversing.js = ..\New folder\wwwroot\lib\jquery\src\traversing.js
+		..\New folder\wwwroot\lib\jquery\src\wrap.js = ..\New folder\wwwroot\lib\jquery\src\wrap.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sizzle", "sizzle", "{C138CCE2-F519-4740-B570-6E8C03E378D7}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\external\sizzle\LICENSE.txt = ..\New folder\wwwroot\lib\jquery\external\sizzle\LICENSE.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dist", "dist", "{3B9DD242-EA28-4FB1-8DDE-C374CBCCBC4D}"
+	ProjectSection(SolutionItems) = preProject
+		..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.js = ..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.js
+		..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.min.js = ..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.min.js
+		..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.min.map = ..\New folder\wwwroot\lib\jquery\external\sizzle\dist\sizzle.min.map
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC6C8537-27EA-4E14-9205-3FD158B9D8FD} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{9CBBED2A-52DB-4559-94F6-08936944C65E} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{D6F3611F-036F-42CE-9027-C37FAAACA68C} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{4C2A92EC-E936-4B8C-8116-77373AF148C8} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{C38D5883-2981-4FE3-A6CB-17D35435C7FF} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{F5E5CE95-846E-47BF-B3B3-F6A9BCD3B749} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{C221793B-5623-464C-917D-1D5F42B6A0EA} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{2155FE5F-EDCB-4F31-B655-7C28542E740B} = {010AA767-F1D2-4FD8-AFCA-3D0CE7F59395}
+		{6FE8B1EC-DA5D-42E0-9DA4-59E7298496E9} = {2155FE5F-EDCB-4F31-B655-7C28542E740B}
+		{01739F0D-3577-4167-A85A-630CD27AAAD9} = {2155FE5F-EDCB-4F31-B655-7C28542E740B}
+		{949B0BF7-20E6-4899-A20C-419FDC49083C} = {2155FE5F-EDCB-4F31-B655-7C28542E740B}
+		{7652F62A-825F-4797-AFC8-5E95EC048474} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{12115F43-BBC0-4ABE-813A-5E11B862F22A} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{68A1BA49-CAF3-40FB-96CE-F687B685F091} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{AEDC9760-1CC6-43FA-9C58-03FC702300E5} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{8E5180EF-B2BB-4505-8F47-3D85D69CA2A9} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{3C71D10F-4F74-4B79-9025-FE77BD5FC978} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{D6F83D41-1D95-4DBE-B1E4-EB223259A6DD} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{15709B78-B202-4B2C-844D-3029009E6B03} = {C221793B-5623-464C-917D-1D5F42B6A0EA}
+		{2964FE55-0F3B-4BA9-8461-53E5C9543772} = {D6F83D41-1D95-4DBE-B1E4-EB223259A6DD}
+		{4590AA94-5E06-48E5-B2C3-6BBD8F274AA0} = {2964FE55-0F3B-4BA9-8461-53E5C9543772}
+		{9CA443B9-29B9-41E3-8C5B-761076F20F63} = {2964FE55-0F3B-4BA9-8461-53E5C9543772}
+		{89CF21B7-4998-4771-8EFC-D0697FE949BC} = {D6F3611F-036F-42CE-9027-C37FAAACA68C}
+		{4F5267B2-3500-4519-81F2-2DA7DE6223BC} = {D6F3611F-036F-42CE-9027-C37FAAACA68C}
+		{190678DF-EFF1-4881-9C89-4B15F854C682} = {D6F3611F-036F-42CE-9027-C37FAAACA68C}
+		{EE4FBA71-78D2-48E1-BA64-6D5CB4654C42} = {D6F3611F-036F-42CE-9027-C37FAAACA68C}
+		{1896EFEC-BF61-4118-906B-574C4EFABFDE} = {949B0BF7-20E6-4899-A20C-419FDC49083C}
+		{17BA5147-105A-46F1-A5EE-18132CCE0A74} = {949B0BF7-20E6-4899-A20C-419FDC49083C}
+		{B7AE37AA-67FA-439E-A401-59B12B85A8A0} = {17BA5147-105A-46F1-A5EE-18132CCE0A74}
+		{B4444EAD-3AF0-44FA-A54E-3A4CCA336F83} = {17BA5147-105A-46F1-A5EE-18132CCE0A74}
+		{5DFC0157-5A4B-4CB0-A88D-F3A13E217D0C} = {17BA5147-105A-46F1-A5EE-18132CCE0A74}
+		{C138CCE2-F519-4740-B570-6E8C03E378D7} = {B4444EAD-3AF0-44FA-A54E-3A4CCA336F83}
+		{3B9DD242-EA28-4FB1-8DDE-C374CBCCBC4D} = {C138CCE2-F519-4740-B570-6E8C03E378D7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84872475-6877-4E10-80E4-AEF6E0F43FEF}
+	EndGlobalSection
+EndGlobal
